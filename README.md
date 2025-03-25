@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tommyhosmer
-- 👀 I’m interested in scientific computing and machine learning techniques applied to model order reduction in plasma physics. Interested in applications relevant to semiconductor manufacturing and nuclear fusion.
-- 🌱 I’m currently learning parallel processing and improving my C++. 
+- 👀 I’m interested in high performance computing and optimization.
+- 🌱 I’m currently building a fluids solver in CUDA and researching algorithms mapping dynamic distributions. 
 - 📫 How to reach me tommyhosmer@berkeley.edu
 
 
