@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tommyhosmer
-- 👀 I’m interested in high performance computing and optimization.
-- 🌱 I’m currently building a fluids solver in CUDA and researching algorithms mapping dynamic distributions. 
-- 📫 How to reach me tommyhosmer@berkeley.edu
+- 👀 I’m interested in Bayesian inference, high performance computing, and numerical optimization.
+- 🌱 I’m currently researching modeling techniques to be used in informative path planning. 
+- 📫 Email: tommyhosmer at berkeley dot edu
 
 
 
