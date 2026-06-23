@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tommyhosmer
-- 👀 I’m interested in Bayesian inference, high performance computing, and numerical optimization.
-- 🌱 I’m currently researching methods for reducing time complexity in Gaussian processes. I aim to apply these techniques to forecasting renewable energy demand and generation.
+- 👀 I’m interested in Bayesian statistics, numerical linear algebra, and time series analysis.
+- 🌱 In my Master's thesis I am researching reinforcement learning for preconditioning of sparse linear systems. At my internship I am applying time series analysis to power grid outage time. During my PhD I have worked on projects in reduced order modeling for plasma physics and active learning. 
 - 📫 Email: tommyhosmer at berkeley dot edu
 
 
